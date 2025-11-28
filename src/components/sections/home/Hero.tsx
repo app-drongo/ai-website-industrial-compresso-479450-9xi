@@ -15,7 +15,7 @@ const DEFAULT_HERO = {
     'Keeping your industrial operations running smoothly with professional compressor service, maintenance, and repair solutions. Trusted by manufacturers across the region.',
   primaryCtaText: 'Get Service Quote',
   primaryCtaHref: '/quote',
-  secondaryCtaText: 'Emergency Service',
+  secondaryCtaText: 'Emergency Services',
   secondaryCtaHref: '/emergency',
   heroImageUrl:
     'https://images.unsplash.com/photo-1581094794329-c8112a89af12?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80',
