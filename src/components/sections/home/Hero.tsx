@@ -9,7 +9,7 @@ import { useState, useEffect } from 'react';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
-  title: 'Sara Regtiiii Compressor Solutionss',
+  title: 'Sara MR Compressor Solutionss',
   subtitle: 'Expert Service & Maintenance',
   description:
     'Keeping your industrial operations running smoothly with professional compressor service, maintenance, and repair solutions. Trusted by manufacturers across the region.',
